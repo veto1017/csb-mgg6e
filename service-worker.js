@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://veto1017.github.io/csb-mgg6e/precache-manifest.8346a783b0887dc00c1c1931b4dfe251.js"
+  "https://veto1017.github.io/csb-mgg6e/precache-manifest.e9afd99d92963a34af345a0928074458.js"
 );
 
 workbox.clientsClaim();
